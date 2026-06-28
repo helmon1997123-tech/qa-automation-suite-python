@@ -1,7 +1,6 @@
 # QA Automation Suite — Python
 
-[![CI](https://github.com/YOUR_USERNAME/qa-automation-suite-python/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/qa-automation-suite-python/actions/workflows/tests.yml)
-
+[![CI](https://github.com/helmon1997123-tech/qa-automation-suite-python/actions/workflows/tests.yml/badge.svg)](https://github.com/helmon1997123-tech/qa-automation-suite-python/actions/workflows/tests.yml)
 API + UI тест-фреймворк для [Demoblaze](https://www.demoblaze.com) на Python.
 
 ## Стек
